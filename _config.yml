@@ -83,12 +83,12 @@ author:
   name             : "Weixin Zeng"
   avatar           : "profile.png"
   bio              : "National University of Defense Technology"
-  location         :
+  location         : "China"
   employer         :
   pubmed           :
-  googlescholar    :
-  email            :
-  researchgate     :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ywFiLT0AAAAJ"
+  email            : "zengweixin13 at nudt.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
