@@ -8,43 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# Short Bio
+I am currently a lecturer at College of Systems Engineering, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), China, where I obtained my PhD degree under the supervision of Prof. Jiuyang Tang and [Prof. Xiang Zhao](https://xiangz-nudt.github.io/) in 2022, and the Bachelor's Degree in 2017. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interests include: Knowledge Graphs, and Data Management.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# Selected Publications
+* **[VJDBJ'22]** **Weixin Zeng**, Xiang Zhao, Xinyi Li, Jiuyang Tang, Wei Wang: [On Entity Alignment at Scale](https://link.springer.com/article/10.1007/s00778-021-00703-3). The VLDB Journal, 2022.
+* **[CIKM'22]** Junbo Fei, **Weixin Zeng***, Xiang Zhao, Xuanyi Li, Weidong Xiao: Few-Shot Relational Triple Extraction with Perspective Transfer Network. In Proceedings of 31st ACM International Conference on Information and Knowledge Management, 2022. 
+* **[TKDE'22]** Xiang Zhao, **Weixin Zeng**, Jiuyang Tang, Wei Wang, Fabian M. Suchanek: [An Experimental Study of State-of-the-Art Entity Alignment Approaches](https://ieeexplore.ieee.org/document/9174835). IEEE Transactions on Knowledge and Data Engineering, 34(6), 2610-2625, 2022.
+* **[TOIS'21]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xuemin Lin, Paul Groth: [Reinforcement Learning based Collective Entity Alignment with Adaptive Features](https://dl.acm.org/doi/10.1145/3446428). ACM Transactions on Information Systems, 39, 3, 31 pages, 2021. 
+* **[CIKM'21]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Changjun Fan: [Reinforced Active Entity Alignment](https://dl.acm.org/doi/abs/10.1145/3459637.3482472). In Proceedings of 30th ACM International Conference on Information and Knowledge Management, 2021, 2477-2486. 
+* **[DASFAA'21]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xinyi Li, Minnan Luo, Qinghua Zheng: [Towards Entity Alignment in the Open World: An Unsupervised Approach](https://link.springer.com/article/10.1007/s41019-022-00178-4). In Proceedings of 26th International Conference on Database Systems for Advanced Applications, 2021, Part I, 272-289. <font color=Red>[Best Paper Award]</font>
+* **[SIGIR'20]** **Weixin Zeng**, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan: [Degree-Aware Alignment for Entities in Tail](https://dl.acm.org/doi/abs/10.1145/3397271.3401161). In Proceedings of the 43rd International ACM Conference on research and development in Information Retrieval, 2020, 811--820.
+* **[ICDE'20]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xuemin Lin: [Collective Entity Alignment via Adaptive Features](https://ieeexplore.ieee.org/document/9101599). In Proceedings of 36th IEEE International Conference on Data Engineering, 2020, 1870-1873.[short] 
+* **[DASFAA'19]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Jinzhi Liao, Chang-Dong Wang: [Relevance-based Entity Embedding](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_33). In Proceedings of 24th International Conference on Database Systems for Advanced Applications, 2019, Part III, 300-304. [short] 
+* **曾维新**, 赵翔, 唐九阳, 谭真, 王炜. [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### Other Publications
+* Jinzhi Liao, Xiang Zhao, Jiuyang Tang, **Weixin Zeng**, Zhen Tan: To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs. **World Wide Web**, 2021, 24(5): 1837-1856.
+* Ning Pang, Zhen Tan, Xiang Zhao, **Weixin Zeng**, Weidong Xiao: Domain Relation Extraction from Noisy Chinese Texts. **Neurocomputing**, 2020, 418: 21-35.
+* Hao Guo, Jiuyang Tang, **Weixin Zeng**, Xiang Zhao, Li Liu: Multi-modal Entity Alignment in Hyperbolic Space. **Neurocomputing**, 2021, 461: 598-607.
+* Xuqian Huang, Jiuyang Tang, Zhen Tan, **Weixin Zeng**, Ji Wang, Xiang Zhao: Knowledge Graph Embedding by Relational and Entity Rotation. **Knowledge-Based Systems**, 2021, 229: 107310.
+* **Weixin Zeng**, Jiuyang Tang, Xiang Zhao, Bin Ge, Weidong Xiao: Named Entity Disambiguation via Probabilistic Graphical Model with Embedding Features. In Proceedings of 25th International Conference on Neural Information Processing (ICONIP), 2018, Part III, 16-27. 
+* **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Zhen Tan, Xuqian Huang: CLEEK: A Chinese Long-text Corpus for Entity Linking. In Proceedings of the 12th Language Resources and Evaluation Conference (LREC), 2020, 2026-2035.
+* **Weixin Zeng**, Jiuyang Tang, Xiang Zhao: Measuring Entity Relatedness via Entity and Text Joint Embedding. Neural Processing Letters, 2019, 50(2), 1861-1875.
+* **Weixin Zeng**, Jiuyang Tang, Xiang Zhao: Entity Linking on Chinese Microblogs via Deep Neural Network. IEEE Access 6: 25908-25920, 2018.
+* Shengze Hu, **Weixin Zeng**, Pengfei Zhang, Jiuyang Tang. Neural Graph Similarity Computation with Contrastive Learning. Appl. Sci. 2022, 12, 7668.
+* Ning Pang, **Weixin Zeng**, Jiuyang Tang, Zhen Tan, Xiang Zhao: Iterative Entity Alignment with Improved Neural Attribute Embedding. DL4KG@ESWC 2019: 41-46. 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+# Professional Services
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* Invited journal reviewers for: [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), [ACM TKDD](https://dl.acm.org/journal/tkdd), [Knowledge-based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) (KBS), [The Journal of the Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643) (JASIST), [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS).
+* Member of program committees: ACL: 2021, 2022; AAAI 2021, 2022; EMNLP: 2021, 2022; COLING: 2020, 2022, ARR, CCKS
