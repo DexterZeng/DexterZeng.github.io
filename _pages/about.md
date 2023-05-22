@@ -44,4 +44,5 @@ My research interests include: Knowledge Graphs, and Data Management.
 # Professional Services
 
 * Invited journal reviewers for: [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), [ACM TKDD](https://dl.acm.org/journal/tkdd), [Knowledge-based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) (KBS), [The Journal of the Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643) (JASIST), [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS).
-* Member of program committees: ACL: 2021, 2022; AAAI 2021, 2022; EMNLP: 2021, 2022; COLING: 2020, 2022, ARR, CCKS
+* Member of program committees: ACL: 2021, 2022, 2023; AAAI 2021, 2022; EMNLP: 2021, 2022; COLING: 2020, 2022, CCKS
+* ARR Action Editor
