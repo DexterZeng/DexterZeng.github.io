@@ -14,6 +14,8 @@ I am currently a lecturer at College of Systems Engineering, [National Universit
 My research interests include: Knowledge Graphs, and Data Management.
 
 # Selected Publications
+* **[TKDE'23]** **Weixin Zeng**, Xiang Zhao, Zhen Tan, Jiuyang Tang, Xueqi Cheng: [Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study](https://ieeexplore.ieee.org/document/10114983). IEEE TKDE, 2023.
+* **[SIGIR'23]** Ning Pang, Xiang Zhao, **Weixin Zeng**, Ji Wang, Weidong Xiao: [Personalized Federated Relation Classification over Heterogeneous Texts]. ACM SIGIR, 2023.
 * **[VJDBJ'22]** **Weixin Zeng**, Xiang Zhao, Xinyi Li, Jiuyang Tang, Wei Wang: [On Entity Alignment at Scale](https://link.springer.com/article/10.1007/s00778-021-00703-3). The VLDB Journal, 2022.
 * **[CIKM'22]** Junbo Fei, **Weixin Zeng***, Xiang Zhao, Xuanyi Li, Weidong Xiao: Few-Shot Relational Triple Extraction with Perspective Transfer Network. In Proceedings of 31st ACM International Conference on Information and Knowledge Management, 2022. 
 * **[TKDE'22]** Xiang Zhao, **Weixin Zeng**, Jiuyang Tang, Wei Wang, Fabian M. Suchanek: [An Experimental Study of State-of-the-Art Entity Alignment Approaches](https://ieeexplore.ieee.org/document/9174835). IEEE Transactions on Knowledge and Data Engineering, 34(6), 2610-2625, 2022.
@@ -26,6 +28,7 @@ My research interests include: Knowledge Graphs, and Data Management.
 * **曾维新**, 赵翔, 唐九阳, 谭真, 王炜. [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. 
 
 ### Other Publications
+* Zenghua Liao, Junbo Fei, **Weixin Zeng**, Xiang Zhao: Few-Shot Named Entity Recognition with Hybrid Multi-Prototype Learning. **World Wide Web**, 2023.
 * Jinzhi Liao, Xiang Zhao, Jiuyang Tang, **Weixin Zeng**, Zhen Tan: To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs. **World Wide Web**, 2021, 24(5): 1837-1856.
 * Ning Pang, Zhen Tan, Xiang Zhao, **Weixin Zeng**, Weidong Xiao: Domain Relation Extraction from Noisy Chinese Texts. **Neurocomputing**, 2020, 418: 21-35.
 * Hao Guo, Jiuyang Tang, **Weixin Zeng**, Xiang Zhao, Li Liu: Multi-modal Entity Alignment in Hyperbolic Space. **Neurocomputing**, 2021, 461: 598-607.
