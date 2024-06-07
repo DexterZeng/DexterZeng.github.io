@@ -14,20 +14,20 @@ I am currently a lecturer at College of Systems Engineering, [National Universit
 My research interests include: Knowledge Graphs, and Data Management.
 
 # Selected Publications
-* **[TKDE'23]** **Weixin Zeng**, Xiang Zhao, Zhen Tan, Jiuyang Tang, Xueqi Cheng: [Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study](https://ieeexplore.ieee.org/document/10114983). IEEE TKDE, 2023 & IEEE ICDE 2024, Extended abstract.
-* **[TNNLS'23]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Changjun Fan: [Knowledge Graph Alignment under Scarce Supervision A General Framework with Active Cross-View Contrastive Learning](https://ieeexplore.ieee.org/document/10286890).
-* **[SIGIR'23]** Ning Pang, Xiang Zhao, **Weixin Zeng**, Ji Wang, Weidong Xiao: [Personalized Federated Relation Classification over Heterogeneous Texts](https://dl.acm.org/doi/10.1145/3539618.3591748).
-* **[CIKM'23]** Hao Guo, **Weixin Zeng***, Jiuyang Tang, Xiang Zhao: [Interpretable Fake News Detection with Graph Evidence](https://dl.acm.org/doi/abs/10.1145/3583780.3614936). 
-* **[VJDBJ'22]** **Weixin Zeng**, Xiang Zhao, Xinyi Li, Jiuyang Tang, Wei Wang: [On Entity Alignment at Scale](https://link.springer.com/article/10.1007/s00778-021-00703-3). The VLDB Journal, 2022.
-* **[CIKM'22]** Junbo Fei, **Weixin Zeng***, Xiang Zhao, Xuanyi Li, Weidong Xiao: [Few-Shot Relational Triple Extraction with Perspective Transfer Network](https://dl.acm.org/doi/10.1145/3511808.3557323). 
-* **[TKDE'22]** Xiang Zhao, **Weixin Zeng**, Jiuyang Tang, Wei Wang, Fabian M. Suchanek: [An Experimental Study of State-of-the-Art Entity Alignment Approaches](https://ieeexplore.ieee.org/document/9174835), 34(6), 2610-2625.
-* **[TOIS'21]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xuemin Lin, Paul Groth: [Reinforcement Learning based Collective Entity Alignment with Adaptive Features](https://dl.acm.org/doi/10.1145/3446428), 39, 3, 31 pages, 2021. 
-* **[CIKM'21]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Changjun Fan: [Reinforced Active Entity Alignment](https://dl.acm.org/doi/abs/10.1145/3459637.3482472).  
-* **[DASFAA'21]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xinyi Li, Minnan Luo, Qinghua Zheng: [Towards Entity Alignment in the Open World: An Unsupervised Approach](https://link.springer.com/article/10.1007/s41019-022-00178-4). <font color=Red>[Best Paper Award]</font>
-* **[SIGIR'20]** **Weixin Zeng**, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan: [Degree-Aware Alignment for Entities in Tail](https://dl.acm.org/doi/abs/10.1145/3397271.3401161), 811--820.
-* **[ICDE'20]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xuemin Lin: [Collective Entity Alignment via Adaptive Features](https://ieeexplore.ieee.org/document/9101599), 1870-1873.[short] 
-* **[DASFAA'19]** **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Jinzhi Liao, Chang-Dong Wang: [Relevance-based Entity Embedding](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_33), 300-304. [short] 
-* **曾维新**, 赵翔, 唐九阳, 谭真, 王炜. [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. 
+* **[TKDE'23]** [**Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study**](https://ieeexplore.ieee.org/document/10114983). IEEE TKDE, 2023 & IEEE ICDE 2024, Extended abstract. **Weixin Zeng**, Xiang Zhao, Zhen Tan, Jiuyang Tang, Xueqi Cheng.
+* **[TNNLS'23]** [**Knowledge Graph Alignment under Scarce Supervision A General Framework with Active Cross-View Contrastive Learning**](https://ieeexplore.ieee.org/document/10286890). **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Changjun Fan.
+* **[SIGIR'23]** [**Personalized Federated Relation Classification over Heterogeneous Texts**](https://dl.acm.org/doi/10.1145/3539618.3591748**), Ning Pang, Xiang Zhao, **Weixin Zeng**, Ji Wang, Weidong Xiao.
+* **[CIKM'23]** [**Interpretable Fake News Detection with Graph Evidence**](https://dl.acm.org/doi/abs/10.1145/3583780.3614936), Hao Guo, **Weixin Zeng***, Jiuyang Tang, Xiang Zhao. 
+* **[VJDBJ'22]** [**On Entity Alignment at Scale**](https://link.springer.com/article/10.1007/s00778-021-00703-3). The VLDB Journal, 2022. **Weixin Zeng**, Xiang Zhao, Xinyi Li, Jiuyang Tang, Wei Wang.
+* **[CIKM'22]** [**Few-Shot Relational Triple Extraction with Perspective Transfer Network**](https://dl.acm.org/doi/10.1145/3511808.3557323), Junbo Fei, **Weixin Zeng***, Xiang Zhao, Xuanyi Li, Weidong Xiao. 
+* **[TKDE'22]** [**An Experimental Study of State-of-the-Art Entity Alignment Approaches**](https://ieeexplore.ieee.org/document/9174835), 34(6), 2610-2625. Xiang Zhao, **Weixin Zeng**, Jiuyang Tang, Wei Wang, Fabian M. Suchanek.
+* **[TOIS'21]** [**Reinforcement Learning based Collective Entity Alignment with Adaptive Features**](https://dl.acm.org/doi/10.1145/3446428), 39, 3, 31 pages, 2021. **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xuemin Lin, Paul Groth.
+* **[CIKM'21]** [**Reinforced Active Entity Alignment**](https://dl.acm.org/doi/abs/10.1145/3459637.3482472), **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Changjun Fan.  
+* **[DASFAA'21]** [**Towards Entity Alignment in the Open World: An Unsupervised Approach**](https://link.springer.com/article/10.1007/s41019-022-00178-4). <font color=Red>[Best Paper Award]</font>, **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xinyi Li, Minnan Luo, Qinghua Zheng.
+* **[SIGIR'20]** [**Degree-Aware Alignment for Entities in Tail**](https://dl.acm.org/doi/abs/10.1145/3397271.3401161), 811--820, **Weixin Zeng**, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan. 
+* **[ICDE'20]** [**Collective Entity Alignment via Adaptive Features**](https://ieeexplore.ieee.org/document/9101599), 1870-1873.[short]. **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xuemin Lin. 
+* **[DASFAA'19]** [**Relevance-based Entity Embedding**](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_33), 300-304. [short]. **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Jinzhi Liao, Chang-Dong Wang. 
+* [**基于重排序的迭代式实体对齐**](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. **曾维新**, 赵翔, 唐九阳, 谭真, 王炜.
 
 ### Other Publications
 * *Dismantling Complex Networks with Graph Contrastive Learning and Multi-hop Aggregation*, **Information Sciences**, 2024, Siqi Ma, **Weixin Zeng**, Weidong Xiao and Xiang Zhao.
