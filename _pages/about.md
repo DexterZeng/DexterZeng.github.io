@@ -11,9 +11,13 @@ redirect_from:
 # Short Bio
 I am currently a lecturer at College of Systems Engineering, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), China, where I obtained my PhD degree under the supervision of Prof. Jiuyang Tang and [Prof. Xiang Zhao](https://xiangz-nudt.github.io/) in 2022, and the Bachelor's Degree in 2017. 
 
-My research interests include: Knowledge Graphs, and Data Management.
+My research interests include: Knowledge Graph and Data Management.
 
 # Selected Publications
+* **[TKDE'24]** Hyperedge Graph Contrastive Learning. IEEE TKDE, 2024. Junfeng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
+* **[CIKM'24]** Benchmarking Challenges for Temporal Knowledge Graph Alignment. ACM SIGIR, 2024.	**Weixin Zeng**, Jie Zhou, Xiang Zhao.
+* **[CIKM'24]** Zero-shot Knowledge Graph Question Generation via Multi-agent LLMs and Small Models Synthesis. ACM SIGIR, 2024.	Runhao Zhao, Jiuyang Tang, **Weixin Zeng***, Ziyang Chen, Xiang Zhao.
+* **[CIKM'24]** M3: A Multi-Image Multi-Modal Entity Alignment Dataset. ACM SIGIR, 2024. [resource paper]. Shiqi Zhang, **Weixin Zeng***, Zhen Tan, Weidong Xiao, Xiang Zhao.
 * **[TKDE'23]** [Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study](https://ieeexplore.ieee.org/document/10114983). IEEE TKDE, 2023 & IEEE ICDE 2024, Extended abstract. **Weixin Zeng**, Xiang Zhao, Zhen Tan, Jiuyang Tang, Xueqi Cheng.
 * **[TNNLS'23]** [Knowledge Graph Alignment under Scarce Supervision A General Framework with Active Cross-View Contrastive Learning](https://ieeexplore.ieee.org/document/10286890). **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Changjun Fan.
 * **[SIGIR'23]** [Personalized Federated Relation Classification over Heterogeneous Texts](https://dl.acm.org/doi/10.1145/3539618.3591748**), Ning Pang, Xiang Zhao, **Weixin Zeng**, Ji Wang, Weidong Xiao.
@@ -30,6 +34,7 @@ My research interests include: Knowledge Graphs, and Data Management.
 * [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. **曾维新**, 赵翔, 唐九阳, 谭真, 王炜.
 
 ### Other Publications
+* *Open Knowledge Base Canonicalization with Multi-task Learning*, **World Wide Web**, 2024, Bingchen Liu, Huang Peng, **Weixin Zeng***, Xiang Zhao, Shijun Liu*, Li Pan.
 * *Dismantling Complex Networks with Graph Contrastive Learning and Multi-hop Aggregation*, **Information Sciences**, 2024, Siqi Ma, **Weixin Zeng**, Weidong Xiao and Xiang Zhao.
 * *Cross-view Graph Contrastive Learning with Hypergraph*, **Information Fusion**, 2023, Jianian Zhu, **Weixin Zeng**, Junfeng Zhang, Jiuyang Tang, Xiang Zhao.
 * *Node Importance Estimation with Multi-view Contrastive Representation Learning*, International Journal of Intelligent Systems, 2023, Li Liu, **Weixin Zeng***, Zhen Tan, Weidong Xiao, Xiang Zhao.
