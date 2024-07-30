@@ -14,10 +14,10 @@ I am currently a lecturer at College of Systems Engineering, [National Universit
 My research interests include: Knowledge Graph and Data Management.
 
 # Selected Publications
-* **[TKDE'24]** Hyperedge Graph Contrastive Learning. IEEE TKDE, 2024. Junfeng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
-* **[CIKM'24]** Benchmarking Challenges for Temporal Knowledge Graph Alignment. ACM SIGIR, 2024.	**Weixin Zeng**, Jie Zhou, Xiang Zhao.
-* **[CIKM'24]** Zero-shot Knowledge Graph Question Generation via Multi-agent LLMs and Small Models Synthesis. ACM SIGIR, 2024.	Runhao Zhao, Jiuyang Tang, **Weixin Zeng***, Ziyang Chen, Xiang Zhao.
-* **[CIKM'24]** M3: A Multi-Image Multi-Modal Entity Alignment Dataset. ACM SIGIR, 2024. [resource paper]. Shiqi Zhang, **Weixin Zeng***, Zhen Tan, Weidong Xiao, Xiang Zhao.
+* **[TKDE'24]** Hyperedge Graph Contrastive Learning. Junfeng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
+* **[CIKM'24]** Benchmarking Challenges for Temporal Knowledge Graph Alignment.	**Weixin Zeng**, Jie Zhou, Xiang Zhao.
+* **[CIKM'24]** Zero-shot Knowledge Graph Question Generation via Multi-agent LLMs and Small Models Synthesis. Runhao Zhao, Jiuyang Tang, **Weixin Zeng***, Ziyang Chen, Xiang Zhao.
+* **[CIKM'24]** M3: A Multi-Image Multi-Modal Entity Alignment Dataset. [resource paper]. Shiqi Zhang, **Weixin Zeng***, Zhen Tan, Weidong Xiao, Xiang Zhao.
 * **[TKDE'23]** [Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study](https://ieeexplore.ieee.org/document/10114983). IEEE TKDE, 2023 & IEEE ICDE 2024, Extended abstract. **Weixin Zeng**, Xiang Zhao, Zhen Tan, Jiuyang Tang, Xueqi Cheng.
 * **[TNNLS'23]** [Knowledge Graph Alignment under Scarce Supervision A General Framework with Active Cross-View Contrastive Learning](https://ieeexplore.ieee.org/document/10286890). **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Changjun Fan.
 * **[SIGIR'23]** [Personalized Federated Relation Classification over Heterogeneous Texts](https://dl.acm.org/doi/10.1145/3539618.3591748**), Ning Pang, Xiang Zhao, **Weixin Zeng**, Ji Wang, Weidong Xiao.
