@@ -57,4 +57,4 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 
 * Invited journal reviewers for: [IEEE TKDE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), [IEEE TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [ACM TKDD](https://dl.acm.org/journal/tkdd), [Knowledge-based Systems](https://www.sciencedirect.com/journal/knowledge-based-systems) (KBS), [The Journal of the Association for Information Science and Technology](https://asistdl.onlinelibrary.wiley.com/journal/23301643) (JASIST), [Knowledge and Information Systems](https://www.springer.com/journal/10115) (KAIS)...
 * Member of program committees: ACL: 2021, 2022, 2023, 2024; AAAI 2021, 2022; EMNLP: 2021, 2022, 2023; COLING: 2020, 2022, 2024, DASFAA, 2023; CCKS.
-* ARR Action Editor
+* ACL ARR Action Editor
