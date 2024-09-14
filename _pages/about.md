@@ -9,12 +9,16 @@ redirect_from:
 ---
 
 # Short Bio
-I am currently a lecturer at College of Systems Engineering, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), China, where I obtained my PhD degree under the supervision of Prof. Jiuyang Tang and [Prof. Xiang Zhao](https://xiangz-nudt.github.io/) in 2022, and the Bachelor's Degree in 2017. 
+I am currently an associate professor (employed by the university) at College of Systems Engineering, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), China, where I obtained my PhD degree under the supervision of Prof. Jiuyang Tang and [Prof. Xiang Zhao](https://xiangz-nudt.github.io/) in 2022, and the Bachelor's Degree in 2017. 
 
 My research interests include: Knowledge Graph and Data Management.
 
+Looking for master's students to work on big data, knowledge engineering and NLP!
+
 # Selected Publications
 * **[TKDE'24]** Hyperedge Graph Contrastive Learning. Junfeng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
+* **[TACL'24]** SCL: Selective Contrastive Learning for Data-driven Zero-shot Relation Extraction. Ning Pang, Xiang Zhao, **Weixin Zeng**, Zhen Tan, Weidong Xiao.
+* **[TNNLS'24]** StaRS: Learning a Stable Representation Space for Continual Relation Classification.	Ning Pang, Xiang Zhao, **Weixin Zeng**, Zhen Tan, Weidong Xiao.
 * **[CIKM'24]** Benchmarking Challenges for Temporal Knowledge Graph Alignment.	**Weixin Zeng**, Jie Zhou, Xiang Zhao.
 * **[CIKM'24]** Zero-shot Knowledge Graph Question Generation via Multi-agent LLMs and Small Models Synthesis. Runhao Zhao, Jiuyang Tang, **Weixin Zeng***, Ziyang Chen, Xiang Zhao.
 * **[CIKM'24]** M3: A Multi-Image Multi-Modal Entity Alignment Dataset. [resource paper]. Shiqi Zhang, **Weixin Zeng***, Zhen Tan, Weidong Xiao, Xiang Zhao.
