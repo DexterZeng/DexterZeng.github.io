@@ -16,7 +16,10 @@ My research interests include: Knowledge Graph and Data Management.
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
-* **[TKDE'24]** Hyperedge Graph Contrastive Learning. Junfeng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
+* **[ICDE'25]** Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs. Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Yawen Li, Guanhua Ye, Junping Du, Xiang Zhao.
+* **[ICDE'25]** IKGA: An Interactive Visualization Tool for Knowledge Graph Alignment. Demo track. **Weixin Zeng**, Shiqi Zhang, Huang Peng, Zhen Tan, Weidong Xiao, Xiang Zhao.
+* **[AAAI'25]** Each Fake News is Fake in its Own Way: An Attribution Multi-Granularity Benchmark for Multimodal Fake News Detection. Hao Guo, Zihan Ma, Zhi Zeng, Minnan Luo, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
+* **[TKDE'24]** Hyperedge Graph Contrastive Learning. IEEE TKDE, 2024 & IEEE ICDE 2025, Extended abstract. Junfeng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
 * **[TACL'24]** SCL: Selective Contrastive Learning for Data-driven Zero-shot Relation Extraction. Ning Pang, Xiang Zhao, **Weixin Zeng**, Zhen Tan, Weidong Xiao.
 * **[TNNLS'24]** StaRS: Learning a Stable Representation Space for Continual Relation Classification.	Ning Pang, Xiang Zhao, **Weixin Zeng**, Zhen Tan, Weidong Xiao.
 * **[CIKM'24]** Benchmarking Challenges for Temporal Knowledge Graph Alignment.	**Weixin Zeng**, Jie Zhou, Xiang Zhao.
@@ -38,6 +41,13 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 * [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. **曾维新**, 赵翔, 唐九阳, 谭真, 王炜.
 
 ### Other Publications
+* *Confusing Negative Commonsense Knowledge Generation with Hierarchy Modeling and LLM-enhanced Filtering*, **IPM**, 2025, Yaqing Sheng, **Weixin Zeng***, Jiuyang Tang, Lihua Liu and Xiang Zhao.
+* *Towards Human-like Questioning: Knowledge Base Question Generation with Bias-corrected Reinforcement Learning from Human Feedback*, **IPM**, 2025, Runhao Zhao, Jiuyang Tang, **Weixin Zeng**, Ziyang Chen, Xiang Zhao.
+* *Open Knowledge Graph Completion with Negative-aware Representation Learning and Multi-source Reliability Inference*, **Information Fusion**, 2025, Huang Peng, **Weixin Zeng***, Jiuyang Tang∗, Mao Wang, Hongbin Huang, Xiang Zhao.
+* *Active In-Context Learning for Cross-Domain Entity Resolution*, **Information Fusion**, 2025, Ziheng Zhang, **Weixin Zeng***, Jiuyang Tang, Hongbin Huang, Xiang Zhao.
+* *Towards Privacy-preserving Personalized Federated Relation Classification*, **TBD**, 2025, Ning Pang, Xiang Zhao, **Weixin Zeng**, Zhen Tan, Weidong Xiao.
+* *Educational Knowledge Graph Question Answering:  Insights from Benchmarks and LLM-based Solutions*, **TAI**, 2025, Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Feng Tian, Xiang Zhao.
+* *Dual Sequence Modeling for Knowledge Tracing*, **Data Sci. Eng.**, 2025, Qian Ning, Chengyu Guo, Kunjia Liu, Jiuyang Tang, Shiqi Zhang; **Weixin Zeng***, Xiang Zhao.
 * *Open Knowledge Base Canonicalization with Multi-task Learning*, **World Wide Web**, 2024, Bingchen Liu, Huang Peng, **Weixin Zeng***, Xiang Zhao, Shijun Liu*, Li Pan.
 * *Dismantling Complex Networks with Graph Contrastive Learning and Multi-hop Aggregation*, **Information Sciences**, 2024, Siqi Ma, **Weixin Zeng**, Weidong Xiao and Xiang Zhao.
 * *Cross-view Graph Contrastive Learning with Hypergraph*, **Information Fusion**, 2023, Jianian Zhu, **Weixin Zeng**, Junfeng Zhang, Jiuyang Tang, Xiang Zhao.
