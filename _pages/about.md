@@ -16,7 +16,8 @@ My research interests include: Knowledge Graph and Data Management.
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
-* **[ICDE'25]** Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs. Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Yawen Li, Guanhua Ye, Junping Du, Xiang Zhao.
+* **[TKDE'25]** DSHCL: Dual-State Hypergraph Contrastive Learning for Information Diffusion Prediction. IEEE TKDE, 2025. Tianyang Shao, **Weixin Zeng**, Xiang Zhao.
+*  **[ICDE'25]** Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs. Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Yawen Li, Guanhua Ye, Junping Du, Xiang Zhao.
 * **[ICDE'25]** IKGA: An Interactive Visualization Tool for Knowledge Graph Alignment. Demo track. **Weixin Zeng**, Shiqi Zhang, Huang Peng, Zhen Tan, Weidong Xiao, Xiang Zhao.
 * **[AAAI'25]** Each Fake News is Fake in its Own Way: An Attribution Multi-Granularity Benchmark for Multimodal Fake News Detection. Hao Guo, Zihan Ma, Zhi Zeng, Minnan Luo, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
 * **[TKDE'24]** Hyperedge Graph Contrastive Learning. IEEE TKDE, 2024 & IEEE ICDE 2025, Extended abstract. Junfeng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
