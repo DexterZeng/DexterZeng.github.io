@@ -16,10 +16,14 @@ My research interests include: Knowledge Graph and Data Management.
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
+* **[AAAI'26]** NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models. Feng Liang, **Weixin Zeng**, Runhao Zhao, Xiang Zhao.
+* **[AAAI'26]** Iterative Multi-Granular RAG with Contextual Hierarchical Graph. Yanli Hu, Teng Liu, Zhuangyi Zhou, **Weixin Zeng**, Zhen Tan, Xiang Zhao.
+* **[CIKM'25]** Yes is Harder than No: A Behavioral Study of Framing Effects in Large Language Models Across Downstream Tasks. Ziheng Zhang, **Weixin Zeng***, Jiuyang Tang, Ji Wang and Xiang Zhao.
 * **[TKDE'25]** DSHCL: Dual-State Hypergraph Contrastive Learning for Information Diffusion Prediction. IEEE TKDE, 2025. Tianyang Shao, **Weixin Zeng**, Xiang Zhao.
-*  **[ICDE'25]** Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs. Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Yawen Li, Guanhua Ye, Junping Du, Xiang Zhao.
+* **[ICDE'25]** Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs. Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Yawen Li, Guanhua Ye, Junping Du, Xiang Zhao.
 * **[ICDE'25]** IKGA: An Interactive Visualization Tool for Knowledge Graph Alignment. Demo track. **Weixin Zeng**, Shiqi Zhang, Huang Peng, Zhen Tan, Weidong Xiao, Xiang Zhao.
 * **[AAAI'25]** Each Fake News is Fake in its Own Way: An Attribution Multi-Granularity Benchmark for Multimodal Fake News Detection. Hao Guo, Zihan Ma, Zhi Zeng, Minnan Luo, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
+* **[COLING'25]** Multi-Modal Entities Matter: Benchmarking Multi-Modal Entity Alignment. Guanchen Xiao, **Weixin Zeng***, Shiqi Zhang, Mingrui Lao and Xiang Zhao.
 * **[TKDE'24]** Hyperedge Graph Contrastive Learning. IEEE TKDE, 2024 & IEEE ICDE 2025, Extended abstract. Junfeng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
 * **[TACL'24]** SCL: Selective Contrastive Learning for Data-driven Zero-shot Relation Extraction. Ning Pang, Xiang Zhao, **Weixin Zeng**, Zhen Tan, Weidong Xiao.
 * **[TNNLS'24]** StaRS: Learning a Stable Representation Space for Continual Relation Classification.	Ning Pang, Xiang Zhao, **Weixin Zeng**, Zhen Tan, Weidong Xiao.
