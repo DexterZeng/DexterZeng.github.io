@@ -16,7 +16,7 @@ My research interests include: Knowledge Graph and Data Management.
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
-* **[AAAI'26]** NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models. Feng Liang, **Weixin Zeng***, Runhao Zhao, Xiang Zhao*.
+* **[AAAI'26]** NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models. Feng Liang, **Weixin Zeng***, Runhao Zhao, Xiang Zhao\*.
 * **[AAAI'26]** Iterative Multi-Granular RAG with Contextual Hierarchical Graph. Yanli Hu, Teng Liu, Zhuangyi Zhou, **Weixin Zeng***, Zhen Tan, Xiang Zhao.
 * **[CIKM'25]** Yes is Harder than No: A Behavioral Study of Framing Effects in Large Language Models Across Downstream Tasks. Ziheng Zhang, **Weixin Zeng***, Jiuyang Tang, Ji Wang and Xiang Zhao.
 * **[TKDE'25]** DSHCL: Dual-State Hypergraph Contrastive Learning for Information Diffusion Prediction. IEEE TKDE, 2025. Tianyang Shao, **Weixin Zeng**, Xiang Zhao.
