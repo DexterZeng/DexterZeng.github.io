@@ -46,6 +46,9 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 * [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. **曾维新**, 赵翔, 唐九阳, 谭真, 王炜.
 
 ### Other Publications
+* *Enhancing Cognitive Diagnosis via LLM-Driven Heterogeneous Concept Graph Construction*, **Engineering**, 2026, Yaqing Sheng, Jiuyang Tang, **Weixin Zeng**, Xiang Zhao and Yuejin Tan.
+* *HIM2A: Hierarchical interactive multi-modal entity alignment with semantic augmentation*, **Advanced Engineering Informatics**, 2026, Shiqi Zhang, **Weixin Zeng***, Zhen Tan, Weidong Xiao, Xiang Zhao.
+* *INKER: Adaptive Dynamic Retrieval Augmented Generation with Internal-External Knowledge Integration*. **IPM**, 2026. Mingjun Zhou, Jiuyang Tang, **Weixin Zeng***, Xiang Zhao.
 * *Confusing Negative Commonsense Knowledge Generation with Hierarchy Modeling and LLM-enhanced Filtering*, **IPM**, 2025, Yaqing Sheng, **Weixin Zeng***, Jiuyang Tang, Lihua Liu and Xiang Zhao.
 * *Towards Human-like Questioning: Knowledge Base Question Generation with Bias-corrected Reinforcement Learning from Human Feedback*, **IPM**, 2025, Runhao Zhao, Jiuyang Tang, **Weixin Zeng**, Ziyang Chen, Xiang Zhao.
 * *Open Knowledge Graph Completion with Negative-aware Representation Learning and Multi-source Reliability Inference*, **Information Fusion**, 2025, Huang Peng, **Weixin Zeng***, Jiuyang Tang∗, Mao Wang, Hongbin Huang, Xiang Zhao.
@@ -71,4 +74,4 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 # Professional Services
 * IP&M Editorial Board Member
 * Invited journal reviewers for: IEEE TKDE, TPAMI, TNNLS, TIP, SMC, TFS, TETCI, TCSVT, TAI, TMC, TCSS; ACM TOIS, TKDD, TIST; KBS, JASIST, KAIS, Big Data Mining and Analytics, Information Fusion
-* Member of program committees: ACL ARR Action Editor 2023, 2024; ACL: 2021, 2022, 2023, 2024, 2025; AAAI 2021, 2022; EMNLP: 2021, 2022, 2023, 2024; COLING: 2020, 2022, 2024, 2025; DASFAA, 2023; ICDM 2025; ADMA 2025; IEEE BigData 2024, 2025; IJCKG 2025; CCKS.
+* Member of program committees: ACL ARR Action Editor 2023, 2024; ACL: 2021, 2022, 2023, 2024, 2025; AAAI 2021, 2022, 2025, 2026; EMNLP: 2021, 2022, 2023, 2024; COLING: 2020, 2022, 2024, 2025; DASFAA, 2023; ICDM 2025; ADMA 2025; IEEE BigData 2024, 2025; IJCKG 2025; CCKS.
