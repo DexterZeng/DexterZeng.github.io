@@ -16,7 +16,9 @@ My research interests include: Knowledge Graph and Data Management.
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
-* **[TheWebConf'26]** Experience is the Best Teacher: Augmenting LLM Reasoning with Knowledge Learned from the Past. Mingjun Zhou, **Weixin Zeng**, Xiang Zhao.
+* **[SIGIR'26]** CoMCo: Consistency-Aware Multi-Agent Coordination for Zero-Shot Cross-Modal Entity Matching. Shiqi Zhang, **Weixin Zeng**, Ziheng Zhang, Wenzhe Hou, Weidong Xiao, Xiang Zhao.
+* **[SIGIR'26]** Unified Entity Matching under Scarce Supervision via Meta-Rule Induction and Retrieval. Ziheng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
+* **[TheWebConf'26]** Experience is the Best Teacher: Augmenting LLM Reasoning with Knowledge Learned from the Past. Mingjun Zhou, **Weixin Zeng***, Xiang Zhao\*.
 * **[AAAI'26]** NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models. Feng Liang, **Weixin Zeng***, Runhao Zhao, Xiang Zhao\*.
 * **[AAAI'26]** Iterative Multi-Granular RAG with Contextual Hierarchical Graph. Yanli Hu, Teng Liu, Zhuangyi Zhou, **Weixin Zeng***, Zhen Tan, Xiang Zhao.
 * **[CIKM'25]** Yes is Harder than No: A Behavioral Study of Framing Effects in Large Language Models Across Downstream Tasks. Ziheng Zhang, **Weixin Zeng***, Jiuyang Tang, Ji Wang and Xiang Zhao.
