@@ -16,8 +16,8 @@ My research interests include: Knowledge Graph and Data Management.
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
-* **[SIGIR'26]** CoMCo: Consistency-Aware Multi-Agent Coordination for Zero-Shot Cross-Modal Entity Matching. Shiqi Zhang, **Weixin Zeng**, Ziheng Zhang, Wenzhe Hou, Weidong Xiao, Xiang Zhao.
-* **[SIGIR'26]** Unified Entity Matching under Scarce Supervision via Meta-Rule Induction and Retrieval. Ziheng Zhang, **Weixin Zeng**, Jiuyang Tang, Xiang Zhao.
+* **[SIGIR'26]** CoMCo: Consistency-Aware Multi-Agent Coordination for Zero-Shot Cross-Modal Entity Matching. Shiqi Zhang, **Weixin Zeng***, Ziheng Zhang, Wenzhe Hou, Weidong Xiao, Xiang Zhao.
+* **[SIGIR'26]** Unified Entity Matching under Scarce Supervision via Meta-Rule Induction and Retrieval. Ziheng Zhang, **Weixin Zeng***, Jiuyang Tang*, Xiang Zhao.
 * **[TheWebConf'26]** Experience is the Best Teacher: Augmenting LLM Reasoning with Knowledge Learned from the Past. Mingjun Zhou, **Weixin Zeng***, Xiang Zhao\*.
 * **[AAAI'26]** NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models. Feng Liang, **Weixin Zeng***, Runhao Zhao, Xiang Zhao\*.
 * **[AAAI'26]** Iterative Multi-Granular RAG with Contextual Hierarchical Graph. Yanli Hu, Teng Liu, Zhuangyi Zhou, **Weixin Zeng***, Zhen Tan, Xiang Zhao.
@@ -77,4 +77,4 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 # Professional Services
 * IP&M Editorial Board Member
 * Invited journal reviewers for: IEEE TKDE, TPAMI, TNNLS, TIP, SMC, TFS, TETCI, TCSVT, TAI, TMC, TCSS; ACM TOIS, TKDD, TIST; KBS, JASIST, KAIS, Big Data Mining and Analytics, Information Fusion
-* Member of program committees: ACL ARR Action Editor 2023, 2024; ACL: 2021, 2022, 2023, 2024, 2025; AAAI 2021, 2022, 2025, 2026; EMNLP: 2021, 2022, 2023, 2024; COLING: 2020, 2022, 2024, 2025; DASFAA, 2023; ICDM 2025; ADMA 2025; IEEE BigData 2024, 2025; IJCKG 2025; CCKS.
+* Member of program committees: ACL ARR Action Editor 2023, 2024; ACL: 2021-2026; AAAI: 2021-2022, 2025-2026; SIGIR: 2026; KDD: 2026; IJCAI: 2026; KDD: 2026; CIKM 2026; EMNLP: 2021-2026; COLING: 2020-2025; ICDM 2025-2026; DASFAA: 2023; ADMA: 2025; IEEE BigData 2024-2026; IJCKG 2025-2026; CCKS 2024-2026.
