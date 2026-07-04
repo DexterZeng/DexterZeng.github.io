@@ -11,13 +11,13 @@ redirect_from:
 # Short Bio
 I am currently an associate professor (employed by the university) at College of Systems Engineering, [National University of Defense Technology](https://english.nudt.edu.cn/) (NUDT), China, where I obtained my PhD degree under the supervision of Prof. Jiuyang Tang and [Prof. Xiang Zhao](https://xiangz-nudt.github.io/) in 2022, and the Bachelor's Degree in 2017. 
 
-My research interests include: Knowledge Graph and Data Management.
+My research interests include: Data Integration, Knowledge Graph and Agent Memory. 
 
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
 * **[SIGIR'26]** CoMCo: Consistency-Aware Multi-Agent Coordination for Zero-Shot Cross-Modal Entity Matching. Shiqi Zhang, **Weixin Zeng***, Ziheng Zhang, Wenzhe Hou, Weidong Xiao, Xiang Zhao.
-* **[SIGIR'26]** Unified Entity Matching under Scarce Supervision via Meta-Rule Induction and Retrieval. Ziheng Zhang, **Weixin Zeng***, Jiuyang Tang*, Xiang Zhao.
+* **[SIGIR'26]** Unified Entity Matching under Scarce Supervision via Meta-Rule Induction and Retrieval. Ziheng Zhang, **Weixin Zeng**\*, Jiuyang Tang\*, Xiang Zhao.
 * **[TheWebConf'26]** Experience is the Best Teacher: Augmenting LLM Reasoning with Knowledge Learned from the Past. Mingjun Zhou, **Weixin Zeng***, Xiang Zhao\*.
 * **[AAAI'26]** NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models. Feng Liang, **Weixin Zeng***, Runhao Zhao, Xiang Zhao\*.
 * **[AAAI'26]** Iterative Multi-Granular RAG with Contextual Hierarchical Graph. Yanli Hu, Teng Liu, Zhuangyi Zhou, **Weixin Zeng***, Zhen Tan, Xiang Zhao.
@@ -46,9 +46,13 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 * **[SIGIR'20]** [Degree-Aware Alignment for Entities in Tail](https://dl.acm.org/doi/abs/10.1145/3397271.3401161), 811--820, **Weixin Zeng**, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan. 
 * **[ICDE'20]** [Collective Entity Alignment via Adaptive Features](https://ieeexplore.ieee.org/document/9101599), 1870-1873.[short]. **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xuemin Lin. 
 * **[DASFAA'19]** [Relevance-based Entity Embedding](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_33), 300-304. [short]. **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Jinzhi Liao, Chang-Dong Wang. 
+
+* 基于于自适应少样本提示的检索增强生成查询优化方法, **计算机学报**, 2026, 崔奕, 周明君, **曾维新**, 赵翔.
+* [大数据知识融合基础及研究进展综述](http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260218), 国防科技大学学报，2026, 48(2): 296-310. 赵翔, 曾维新, 彭鐄, 张时琪, 肖冠辰, 赵润豪, 周明君.
 * [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. **曾维新**, 赵翔, 唐九阳, 谭真, 王炜.
 
 ### Other Publications
+* *Adaptive Retrieval-Augmented Evidence-Fusion for Highly Heterogeneous Temporal Entity Alignment*, **Information Fusion**, 2026, Wenjun Wu, Kuangshan Xu, Runhao Zhao, Shiqi Zhang, **Weixin Zeng**, Jiuyang Tang. 
 * *Enhancing Cognitive Diagnosis via LLM-Driven Heterogeneous Concept Graph Construction*, **Engineering**, 2026, Yaqing Sheng, Jiuyang Tang, **Weixin Zeng**, Xiang Zhao and Yuejin Tan.
 * *HIM2A: Hierarchical interactive multi-modal entity alignment with semantic augmentation*, **Advanced Engineering Informatics**, 2026, Shiqi Zhang, **Weixin Zeng***, Zhen Tan, Weidong Xiao, Xiang Zhao.
 * *INKER: Adaptive Dynamic Retrieval Augmented Generation with Internal-External Knowledge Integration*. **IPM**, 2026. Mingjun Zhou, Jiuyang Tang, **Weixin Zeng***, Xiang Zhao.
@@ -77,4 +81,5 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 # Professional Services
 * IP&M Editorial Board Member
 * Invited journal reviewers for: IEEE TKDE, TPAMI, TNNLS, TIP, SMC, TFS, TETCI, TCSVT, TAI, TMC, TCSS; ACM TOIS, TKDD, TIST; KBS, JASIST, KAIS, Big Data Mining and Analytics, Information Fusion
-* Member of program committees: ACL ARR Action Editor 2023, 2024; ACL: 2021-2026; AAAI: 2021-2022, 2025-2026; SIGIR: 2026; KDD: 2026; IJCAI: 2026; KDD: 2026; CIKM 2026; EMNLP: 2021-2026; COLING: 2020-2025; ICDM 2025-2026; DASFAA: 2023; ADMA: 2025; IEEE BigData 2024-2026; IJCKG 2025-2026; CCKS 2024-2026.
+* Member of program committees: ACL ARR Action Editor 2023, 2024; ACL: 2021-2026; AAAI: 2021-2022, 2025-2027; SIGIR: 2026; KDD: 2026-2027; IJCAI: 2026; CIKM: 2026; EMNLP: 2021-2026; COLING: 2020-2025; ICDM 2025-2026; DASFAA: 2023; ADMA: 2025-2026; IEEE BigData 2024-2026; IJCKG 2025-2026; CCKS 2024-2026.
+* 《大数据》青年编委
