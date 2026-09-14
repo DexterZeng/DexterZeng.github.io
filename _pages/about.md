@@ -16,6 +16,8 @@ My research interests include: Data Integration, Knowledge Graph and Agent Memor
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
+* **[ICDE'27]** PhyWorld-Align: A World Knowledge Model Framework for Heterogeneous Spatio-temporal Entity Alignment
+. Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Zhengpin Li, Wentao Zhang, Xiang Zhao.
 * **[SIGIR'26]** CoMCo: Consistency-Aware Multi-Agent Coordination for Zero-Shot Cross-Modal Entity Matching. Shiqi Zhang, **Weixin Zeng***, Ziheng Zhang, Wenzhe Hou, Weidong Xiao, Xiang Zhao.
 * **[SIGIR'26]** Unified Entity Matching under Scarce Supervision via Meta-Rule Induction and Retrieval. Ziheng Zhang, **Weixin Zeng**\*, Jiuyang Tang\*, Xiang Zhao.
 * **[TheWebConf'26]** Experience is the Best Teacher: Augmenting LLM Reasoning with Knowledge Learned from the Past. Mingjun Zhou, **Weixin Zeng***, Xiang Zhao\*.
@@ -52,6 +54,7 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 * [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. **曾维新**, 赵翔, 唐九阳, 谭真, 王炜.
 
 ### Other Publications
+* *MELDBench: A Large-scale Benchmark for Unified Heterogeneous Data Discovery*, **ESWA**, 2026, Peiyao Tang, Wenzhe Hou, **Weixin Zeng***, Jibing Wu, Hongbin Huang, Hao Xu, Xiang Zhao.
 * *Adaptive Retrieval-Augmented Evidence-Fusion for Highly Heterogeneous Temporal Entity Alignment*, **Information Fusion**, 2026, Wenjun Wu, Kuangshan Xu, Runhao Zhao, Shiqi Zhang, **Weixin Zeng**, Jiuyang Tang. 
 * *Enhancing Cognitive Diagnosis via LLM-Driven Heterogeneous Concept Graph Construction*, **Engineering**, 2026, Yaqing Sheng, Jiuyang Tang, **Weixin Zeng**, Xiang Zhao and Yuejin Tan.
 * *HIM2A: Hierarchical interactive multi-modal entity alignment with semantic augmentation*, **Advanced Engineering Informatics**, 2026, Shiqi Zhang, **Weixin Zeng***, Zhen Tan, Weidong Xiao, Xiang Zhao.
