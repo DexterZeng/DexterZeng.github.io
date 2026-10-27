@@ -16,8 +16,8 @@ My research interests include: Data Integration, Knowledge Graph and Agent Memor
 Looking for master's students to work on big data, knowledge engineering and NLP!
 
 # Selected Publications
-* **[ICDE'27]** PhyWorld-Align: A World Knowledge Model Framework for Heterogeneous Spatio-temporal Entity Alignment
-. Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Zhengpin Li, Wentao Zhang, Xiang Zhao.
+* **[NeurIPS'27]** Are Multimodal Benchmarks Really Useful? Item-Level Multimodal Benchmark Diagnosis via Structure-Response Co-Calibration. Shiqi Zhang, **Weixin Zeng**, Ziheng Zhang, Jiuyang Tang, Xiang Zhao.
+* **[ICDE'27]** PhyWorld-Align: A World Knowledge Model Framework for Heterogeneous Spatio-temporal Entity Alignment. Runhao Zhao, **Weixin Zeng**, Jiuyang Tang, Zhengpin Li, Wentao Zhang, Xiang Zhao.
 * **[SIGIR'26]** CoMCo: Consistency-Aware Multi-Agent Coordination for Zero-Shot Cross-Modal Entity Matching. Shiqi Zhang, **Weixin Zeng***, Ziheng Zhang, Wenzhe Hou, Weidong Xiao, Xiang Zhao.
 * **[SIGIR'26]** Unified Entity Matching under Scarce Supervision via Meta-Rule Induction and Retrieval. Ziheng Zhang, **Weixin Zeng**\*, Jiuyang Tang\*, Xiang Zhao.
 * **[TheWebConf'26]** Experience is the Best Teacher: Augmenting LLM Reasoning with Knowledge Learned from the Past. Mingjun Zhou, **Weixin Zeng***, Xiang Zhao\*.
@@ -49,6 +49,7 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 * **[ICDE'20]** [Collective Entity Alignment via Adaptive Features](https://ieeexplore.ieee.org/document/9101599), 1870-1873.[short]. **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Xuemin Lin. 
 * **[DASFAA'19]** [Relevance-based Entity Embedding](https://link.springer.com/chapter/10.1007/978-3-030-18590-9_33), 300-304. [short]. **Weixin Zeng**, Xiang Zhao, Jiuyang Tang, Jinzhi Liao, Chang-Dong Wang. 
 
+* 细粒度种子质量感知的无监督多模态实体对齐方法, **软件学报**, 2027, 赵润豪,周仲憬,**曾维新**,李正品,张文涛,唐九阳,赵翔.
 * 基于于自适应少样本提示的检索增强生成查询优化方法, **计算机学报**, 2026, 崔奕, 周明君, **曾维新**, 赵翔.
 * [大数据知识融合基础及研究进展综述](http://journal.nudt.edu.cn/gfkjdxxb/article/html/20260218), 国防科技大学学报，2026, 48(2): 296-310. 赵翔, 曾维新, 彭鐄, 张时琪, 肖冠辰, 赵润豪, 周明君.
 * [基于重排序的迭代式实体对齐](https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643). **计算机研究与发展**, 2020, 57(7): 1460-1471. **曾维新**, 赵翔, 唐九阳, 谭真, 王炜.
