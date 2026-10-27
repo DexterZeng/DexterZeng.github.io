@@ -85,5 +85,5 @@ Looking for master's students to work on big data, knowledge engineering and NLP
 # Professional Services
 * IP&M Editorial Board Member
 * Invited journal reviewers for: IEEE TKDE, TPAMI, TNNLS, TIP, SMC, TFS, TETCI, TCSVT, TAI, TMC, TCSS; ACM TOIS, TKDD, TIST; KBS, JASIST, KAIS, Big Data Mining and Analytics, Information Fusion
-* Member of program committees: ACL ARR Action Editor 2023, 2024; ACL: 2021-2026; AAAI: 2021-2022, 2025-2027; SIGIR: 2026; KDD: 2026-2027; IJCAI: 2026; CIKM: 2026; EMNLP: 2021-2026; COLING: 2020-2025; ICDM 2025-2026; DASFAA: 2023; ADMA: 2025-2026; IEEE BigData 2024-2026; IJCKG 2025-2026; CCKS 2024-2026.
+* Member of program committees: ACL ARR Action Editor 2023-2026; ACL: 2021-2026; AAAI: 2021-2022, 2025-2027; SIGIR: 2026; KDD: 2026-2027; ICLR: 2027; NeurIPS: 2027; IJCAI: 2026-2027; WSDM: 2027; CIKM: 2026; EMNLP: 2021-2026; COLING: 2020-2025; ICDM 2025-2026; DASFAA: 2023, 2027; ADMA: 2025-2026; IEEE BigData 2024-2026; IJCKG 2025-2026; CCKS 2024-2026.
 * 《大数据》青年编委
